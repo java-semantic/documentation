@@ -8,3 +8,9 @@ This repository just houses documentation for the project.
 ## Fundamental Docs
 
 - [Conventional commit types.](./fundamentals/commit-types.md)
+
+## Team Standard Docs
+
+- [Definition of done.](./team_standards/definition_of_done.md)
+- [Rules of engagement.](./team_standards/rules_of_engagement.md)
+- [Ticket template.](./team_standards/ticket_template.md)
