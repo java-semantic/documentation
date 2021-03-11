@@ -13,7 +13,11 @@ Tags should be used to logically group tickets into that make up a feature.
 - Solution context, including any POC's or investigations that have been done. 
 - Proposed solutions that have been discussed. 
 - Acceptance criteria written in "Given, When, Then" to meet the business ask for the story.
+- NOTE: This could be supplied by linking to the analysis docs. 
 
+## Links: 
+- Feature branch 
+- Pull Request
 
 ## Notes: 
 - All tickets must meet the DoR (see "Body") before they are picked up. 
